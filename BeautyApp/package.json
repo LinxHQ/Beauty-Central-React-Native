@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "react": "16.9.0",
-    "react-native": "0.61.4",
+    "react-native": "0.62.3",
     "native-base": "^2.13.8",
     "react-items-carousel": "^2.8.0",
     "react-native-countdown-component": "^2.6.0",
